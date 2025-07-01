@@ -1,0 +1,40 @@
+{
+  "name": "health-chk",
+  "version": "1.0.0",
+  "description": "A simple and lightweight health check middleware for Express.js apps",
+  "main": "index.js",
+  "files": [
+    "src"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashraf-g/health-chk.git"
+  },
+  "bugs": {
+    "type":"bugs",
+    "url": "https://github.com/ashraf-g/health-chk/issues"
+  },
+  "keywords": [
+    "express",
+    "health",
+    "healthcheck",
+    "middleware",
+    "uptime",
+    "monitoring"
+  ],
+  "author": "Gulam Ashraf",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.3",
+    "supertest": "^7.1.1"
+  }
+}
