@@ -3,6 +3,8 @@
 A customizable, production-ready health check middleware for Express.js applications.  
 Provides detailed system metrics, application uptime, and optional custom diagnostics (e.g., database status) for monitoring and orchestration tools like **Kubernetes**, **Docker**, **AWS ELB**, etc.
 
+![npm](https://img.shields.io/npm/v/health-chk) ![license](https://img.shields.io/npm/l/health-chk)
+
 ---
 
 ## 🚀 Features
