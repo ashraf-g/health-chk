@@ -1,6 +1,6 @@
 {
   "name": "health-chk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and lightweight health check middleware for Express.js apps",
   "main": "index.js",
   "files": [
@@ -17,7 +17,7 @@
     "url": "https://github.com/ashraf-g/health-chk.git"
   },
   "bugs": {
-    "type":"bugs",
+    "type": "bugs",
     "url": "https://github.com/ashraf-g/health-chk/issues"
   },
   "keywords": [
