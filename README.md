@@ -28,7 +28,7 @@ npm install health-chk
 
 ```bash
 const express = require('express');
-const healthCheck = require('./health-chk');
+const healthCheck = require('health-chk');
 
 const app = express();
 
